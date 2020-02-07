@@ -1,6 +1,6 @@
 # Manual de instalación para Plugin WooCommerce
 
-## Descripción
+## Descripción.
 
 Este plugin oficial ha sido creado para que puedas integrar Onepay fácilmente en tu comercio, basado en WooCommerce.
 
